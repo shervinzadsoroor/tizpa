@@ -9,4 +9,9 @@ public class VIPTrip extends Trip {
         super.pickHourRate = 2;
         super.rainyRate = 2;
     }
+
+    @Override
+    protected double price() {
+        return 0;
+    }
 }

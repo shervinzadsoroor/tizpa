@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="c0e3059a-37c0-4345-bf6e-a1d09de5e068" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/shervinZadsoroor/tizpa/VIPTrip.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/shervinZadsoroor/tizpa/VIPTrip.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/shervinZadsoroor/tizpa/economy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/shervinZadsoroor/tizpa/economy.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -20,6 +20,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="MERGE" />
   </component>
   <component name="ProjectId" id="1UCANZKohu96R9z650jrHTdvxy9" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -27,6 +28,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -62,7 +64,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1574850163435</updated>
-      <workItem from="1574850164855" duration="1960000" />
+      <workItem from="1574850164855" duration="3612000" />
+      <workItem from="1574860421267" duration="203000" />
     </task>
     <servers />
   </component>
@@ -74,7 +77,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
